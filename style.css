@@ -1,0 +1,31 @@
+.background {
+  filter: blur(3px);
+  -webkit-filter: blur(3px);
+  width: 100%;
+}
+
+.overlay {
+  top: 0;
+  height: 100%;
+  width: 100%;
+  position: fixed;
+  margin-top: 163px;
+  text-align: center;
+}
+
+h1 {
+  font-family: Lato, Helvetica, sans-serif;
+  color: #B9FFD4;
+  font-size: 48px;
+  line-height: 31px;
+  margin: 63px 0 20px;
+}
+
+p {
+  font-family: Helvetica, Lato, sans-serif;
+  color: #FFFFFF;
+  font-size: 18px;
+  line-height: 24px;
+  margin: auto;
+  max-width: 445px;
+}
